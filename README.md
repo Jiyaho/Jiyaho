@@ -4,9 +4,6 @@
 ### 👋🏼 Hello, I'm Jiho.
 ---
 
-#### 📧 Email 
-janetnplanet@gmail.com
-
 #### 📝 Study log
  <a href="https://velog.io/@jiyaho" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
  
