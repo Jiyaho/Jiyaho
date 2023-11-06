@@ -1,7 +1,7 @@
 
 <div align="center">
   
-### 👋🏼 Hello, I'm Jiho.
+### 👋🏼 Hello, I'm Jiho (Janet).
 ---
 
 ### 📱 Contact
@@ -26,7 +26,9 @@ https://janet-n-planet.vercel.app/
 ### 🛠 ️Once I've used
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" /> 
 
-</div>
+<br />
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyaho)](https://solved.ac/jiyaho/)
+</div>
 
 
