@@ -1,7 +1,7 @@
 
 <div align="center">
   
-### 👋🏼 Hello, I'm Jiho (Janet).
+### 👋🏼 Hello, I'm Jiho.
 ---
 
 ### 📱 Contact
