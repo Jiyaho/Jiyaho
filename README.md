@@ -43,9 +43,10 @@ https://janet-n-planet.vercel.app/
   </div>
 
   <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'center', gap: '4px' }}>
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white" />
     <img src="https://img.shields.io/badge/styled–components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white" />
   </div>
+  
 </div>
 
 <br />
